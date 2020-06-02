@@ -1,0 +1,64 @@
+*{ 
+ 	font-family: 'Mukta', sans-serif;
+ 	font-size: 14px; 
+ 	font-style: normal; 
+ 	font-variant: normal; 
+ 	font-weight: 400;
+ }
+.product-list {
+	list-style: none;
+	display: flex;
+}
+.product-container {
+	width: 254.1px;
+	height: 417.5px;
+	padding: 0 11.2px;
+	margin-bottom: 32px;
+	background-color: #FFF;
+	
+}
+.product-card {
+	padding-bottom: 16px;
+	cursor: pointer;
+}
+.img-card {
+	width: 254.5px;
+	height: 265.5px;
+	background-image: url(https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100348_petite_32_evergold_white.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=F4F4F4);
+	background-position: center;
+	background-size: 100%;
+}
+.text-card {
+	background-color: rgb(205, 188, 122);
+	text-align: left;
+    margin: 10px 195px 0 17px;
+    padding-left: 4px;
+    color: #FFF;
+}
+.product-card-titlte {
+	text-transform: uppercase;
+	letter-spacing: 1.7px;
+	font-weight: normal;
+	margin: 7px 12px 0px 16px;
+	color: rgb(0, 8, 28);
+}
+.color-container {
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 1px solid black;
+	margin: 0px 0px 0px 17px;
+}
+.yellow {
+	width: 18px;
+	height: 18px;
+	border-radius: 18px;
+	background-color: rgb(205, 188, 122);
+	margin: 1px 0 0 1px;
+}
+.product-price {
+	margin: 2px 0px 0px 17px;
+}
+.gold {
+	margin: 1px 17px;
+}
