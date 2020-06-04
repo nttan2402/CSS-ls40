@@ -2,7 +2,6 @@
  	box-sizing: border-box;
  	max-width:  40px;
  	max-height: 27px;
- 	overflow: hidden;
  }
  .item-div2 {
  	display: flex;
