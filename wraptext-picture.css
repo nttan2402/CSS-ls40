@@ -1,0 +1,62 @@
+body{
+	background-image: url(https://www.danielwellington.com/ecom2-image-bucket/mv3xw5mnbbp0/5lOLJrzyZgVQzJbzRHc9VG/0c741f6a33a804331b04cb9de939d84f/yg-hero-top-2800x1100.jpg?ecom2=true&format=jpg&width=2800&quality=80&bg-color=FFFFFF);
+	background-size: contain;
+	background-position: top;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 1070px;
+}
+.text-wrap-link {
+	display: flex;
+	flex-direction: column;
+	padding: 70px 265px;
+	margin-bottom: 60px;
+
+}
+.wrap-link a:link, .text-wrap-link {
+	color: white;
+	text-transform: uppercase;
+	
+}
+.introducing {
+	font-size: 16px;
+	letter-spacing: 4px;
+	line-height: 20px;
+	padding: 0 100px;
+}
+
+.a-new-shade, .of-gold {
+	font-size: 40px;
+    letter-spacing: 11px;
+    line-height: 35px;
+    
+    
+}
+.a-new-shade{
+	margin-top: 2px;
+	padding: 0 0px;
+	margin-bottom: 13px;
+}
+.of-gold {
+	padding: 0 56px;
+	margin-bottom: 20px;
+}
+.wrap-link a:link, .wrap-link a:visited, {
+	border: 1px white solid;
+	border-radius: 2px;
+	box-sizing: border-box;
+	padding: 3px;
+	color: white;
+	letter-spacing: 1px;
+	width: 190px;
+	display: block;
+
+}
+.wrap-link {
+	padding: 0 70px;
+	text-align: center;
+}
+.wrap-text {
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
