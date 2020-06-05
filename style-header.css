@@ -13,7 +13,7 @@
 	justify-content: space-between;
 	letter-spacing: 10px;
 	text-transform: uppercase;
-	/*color: white;*/
+	color: white;
 	margin: 20px 0px 1px;
 	background-color: rgba(0, 14, 34, 0);
 }
@@ -34,12 +34,13 @@
 .header-menu  {
 	list-style: none;
 	display: flex;
-	background-color: #DDD;
+	background-color: rgba(39, 39, 39, 0.2);
 	justify-content: center;
+	line-height: 3;
 }
 a {
 	text-decoration: none;
-	color: white;
+	color: black;
 }
 .sub-header-menu > a:link, .sub-header-menu > a:visited {
 	cursor: pointer;
@@ -62,11 +63,13 @@ a {
 	position: absolute;
 	background-color: white;
 	display: none;
+
 }
 .sub-all-watches, .sub-iconic-link, .sub-class, .sub-info{
 	list-style: none;
 	margin: 5px 0;
 	letter-spacing: 1px;
+	
 }
 .watches:hover .list-all-watches{
 	display: block;
